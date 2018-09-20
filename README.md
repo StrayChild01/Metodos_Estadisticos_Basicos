@@ -1,2 +1,2 @@
-# Metodos_Estadisticos_Basicos
+# Métodos Estadísticos Básicos
 Contenido del curso del PRED - Métodos Estadísticos Básicos

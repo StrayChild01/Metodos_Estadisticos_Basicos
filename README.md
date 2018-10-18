@@ -8,4 +8,4 @@ Contenido del curso del PRED - Métodos Estadísticos Básicos
   - [Estimadores por Intervalos](Unidad2/Unidad2.md)
   
 ### Unidad 3
-  - [Actualizando...](Unidad2/Unidad2.md)
+  - [Pruebas de Hipótesis](Unidad3/Unidad3.md)

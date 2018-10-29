@@ -9,3 +9,6 @@ Contenido del curso del PRED - Métodos Estadísticos Básicos
   
 ### Unidad 3
   - [Pruebas de Hipótesis](Unidad3/Unidad3.md)
+  
+### Unidad 4
+  - [Análisis de regresión simple](Unidad4/Unidad4.md)

@@ -7,8 +7,8 @@ Objetivo(s). El alumno será capaz de identificar cuándo es pertinente realizar
 - [Lectura 1](Lectura1Unidad5.pdf)
 - [Actividad de ejemplo 1](ActividaddeEjemplo1Unidad5.pdf)
 - [Instalación del complemento "Análisis de datos" en Excel (video)](instalar_complemento_Excel.mp4)
-- [Lectura 2](Lectura2Unidad5.pdf)
 - [Modelo de Regresión Lineal en Excel (video)](Regresion_en_excel.mp4)
+- [Lectura 2](Lectura2Unidad5.pdf)
 - [Modelo de Regresión Lineal Múltiple en Excel (video)](Regresion_Lineal_Multiple_en_EXCEL.mp4)
 
 ### Actividades
